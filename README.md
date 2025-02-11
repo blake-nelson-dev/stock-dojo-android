@@ -34,12 +34,8 @@ Stock Dojo is an educational Android application designed to help students learn
 - Modern Android UI components
 - Real-time data processing
 
-## Getting Started
+## File Location
 
-### Prerequisites
+Front end design files are in `res`. 
 
-```bash
-- Android Studio Arctic Fox or newer
-- JDK 11 or higher
-- Android device or emulator
-```
+Front end java files are in package `java.com.softdev.stocksim`
